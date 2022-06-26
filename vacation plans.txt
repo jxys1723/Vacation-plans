@@ -10,7 +10,7 @@ powershell
 java projects 
 
 js/jquery, java, sql, uml, linux/bash, html&css, python, postgres/mysql/sqlite, algorithms&datastructuren, database design, jdbc, api's, tampermonkey, cybersecurity, networking
-android app development, json, xm, git, web hosting, regex, statistics
+android app development, json, xm, git, web hosting, regex, statistics with ruby, leetcode style questions.
 
 powershell: https://www.commandline.ninja/jumpstart-learning-resources-for-powershell/
 sql: https://advancedsqlpuzzles.com, https://www.sqlclimber.com/assignments/upper-intermediate
