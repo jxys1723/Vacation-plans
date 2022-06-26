@@ -15,8 +15,11 @@ android app development, json, xm, git, web hosting, regex, statistics with ruby
 powershell: https://www.commandline.ninja/jumpstart-learning-resources-for-powershell/
 sql: https://advancedsqlpuzzles.com, https://www.sqlclimber.com/assignments/upper-intermediate
 java spring, NodeJS, ReactJS, ember, angular, django,
+https://learn.jquery.com
+https://hibernate.org
+https://medium.com/javarevisited/20-essential-java-libraries-and-apis-every-programmer-should-learn-5ccd41812fc7
 
-bootstrap, spring, reactjs, angular, django
+bootstrap, spring, reactjs, angular, django, jquery
 
 devops: https://www.reddit.com/r/devops/comments/v3gwa8/monthly_getting_into_devops_thread_202206/
 
