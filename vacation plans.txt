@@ -1,0 +1,23 @@
+summer vacation plan 
+
+freecodecamp 
+career playlist youtube
+cisco networking
+theodingproject
+teachyourselfcs
+mdn guide to front end
+powershell
+java projects 
+
+js/jquery, java, sql, uml, linux/bash, html&css, python, postgres/mysql/sqlite, algorithms&datastructuren, database design, jdbc, api's, tampermonkey, cybersecurity, networking
+android app development, json, xm, git, web hosting, regex, statistics
+
+powershell: https://www.commandline.ninja/jumpstart-learning-resources-for-powershell/
+sql: https://advancedsqlpuzzles.com, https://www.sqlclimber.com/assignments/upper-intermediate
+java spring, NodeJS, ReactJS, ember, angular, django,
+
+bootstrap, spring, reactjs, angular, django
+
+devops: https://www.reddit.com/r/devops/comments/v3gwa8/monthly_getting_into_devops_thread_202206/
+
+https://www.reddit.com/r/ExperiencedDevs/comments/nmodyl/drunk_post_things_ive_learned_as_a_sr_engineer/
