@@ -10,7 +10,7 @@ powershell
 java projects 
 
 js/jquery, java, sql, uml, linux/bash, html&css, python, postgres/mysql/sqlite, algorithms&datastructuren, database design, jdbc, api's, tampermonkey, cybersecurity, networking
-android app development, json, xm, git, web hosting, regex, statistics with ruby, leetcode style questions.
+android app development, json, xml, git, web hosting, regex, statistics with ruby, leetcode style questions.
 mongodb
 
 powershell: https://www.commandline.ninja/jumpstart-learning-resources-for-powershell/
@@ -27,3 +27,19 @@ devops: https://www.reddit.com/r/devops/comments/v3gwa8/monthly_getting_into_dev
 https://www.reddit.com/r/ExperiencedDevs/comments/nmodyl/drunk_post_things_ive_learned_as_a_sr_engineer/
 
 a lot of projects in java
+
+data structures&algorithms
+streams&lambda's 
+design patterns java,
+sql injection
+logging java
+javafx
+threading java
+java nio
+apache nlp
+java nutch/media framework
+
+web hosting google cloud developer/amazon web services
+
+database modelling
+postgresql/mongodb/mysql/sqlite
